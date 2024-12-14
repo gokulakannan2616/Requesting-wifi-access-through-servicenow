@@ -1,3 +1,20 @@
+Requesting Wifi Access Through Servicenow
+
+Project Lead: Gokula Kannan M
+Department: Information Technology
+Year/Semester: 4th year/7th semester
+
+Team Id - NM2024TMID17909
+
+Team Members
+1.Gokula Kannan M - au723721205018 - gokulakannanmuruga466@gmail.com - 9FE39423F87FCEBA02146C3EF5182E96
+2.Joyal Franklin S - au723721205019 - joyalfranklin0609@gmail.com - 512E49292FA92DDA9884042E6A0E69E7
+3.Yugesh K - au723721205049 - yashyugesh7@gmail.com - D5A076938B44DA1AB194ABE9F5BB983D
+4.Saravanan R - au723721205038 - saravananr0514@gmail.com - 496173DAE08B818A4304BD65BE5BB989
+
+Video Drive Link- 
+
+
 # Requesting-wifi-access-through-servicenow
 This repository demonstrates an automated workflow for requesting WiFi access using ServiceNow. The project integrates IT service management with WiFi access provisioning, ensuring streamlined operations and enhanced user convenience.
 
